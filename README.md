@@ -44,7 +44,7 @@ pip install -r requirements.txt
 3. Run the manager:
 
 ```bash
-python nuclei_manager.py
+python nuclei-tc.py
 ```
 
 The script will:
