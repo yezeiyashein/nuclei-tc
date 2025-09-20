@@ -32,6 +32,7 @@ pip install -r requirements.txt
 
 > Requirements include:
 > - Python 3.10+
+> - requests
 > - rich
 > - PyYAML
 
